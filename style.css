@@ -74,6 +74,7 @@ img:hover {
     display: inline;
     padding: 1rem;
     border-radius: 1.5rem;
+    font-weight: bold;
 }
 .button-container{
     margin-top: 2rem;
